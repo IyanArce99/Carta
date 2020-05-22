@@ -57,7 +57,7 @@
     border-bottom: 1px solid #ddd;
 }
 
-@media (max-width: 576px) {
+@media screen and (max-width: 576px) {
     .logo {
         max-width: 150px!important;
     }
