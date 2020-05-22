@@ -56,3 +56,9 @@
 .brdr-btn {
     border-bottom: 1px solid #ddd;
 }
+
+@media (max-width: 576px) {
+    .logo {
+        max-width: 200px;
+    }
+}
